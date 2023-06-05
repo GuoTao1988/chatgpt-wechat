@@ -1,6 +1,6 @@
 Name: chat-api                                      # 项目名称
 Host: 0.0.0.0                                       # 项目监听地址
-Port: 8888                                          # 项目监听端口
+Port: 8887                                          # 项目监听端口
 
 Mysql:
   DataSource: chat:123456@tcp(mysql57:3306)/chat?charset=utf8mb4&parseTime=true&loc=Asia%2FShanghai # 数据库连接地址
